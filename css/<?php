@@ -1,0 +1,4 @@
+ajaxSubmit.php
+
+
+$name = $_POST['name'];
